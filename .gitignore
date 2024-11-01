@@ -125,3 +125,7 @@ dmypy.json
 
 # VS Code
 .vscode/
+
+# Exceptions
+!Centralesupelec_logo_Changed.jpeg
+!Centralesupelec_logo.jpeg

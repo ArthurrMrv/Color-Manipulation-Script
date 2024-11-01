@@ -84,10 +84,10 @@ Changes specific colors in an image based on a provided hex color map.
 ## Examples
 
 Before:
-![Before](Centralesupelec logo.jpeg)
+![Before](Centralesupelec_logo.jpeg)
 
 After (factor = 0.6):
-![After](Centralesupelec logo Changed.jpeg)
+![After](Centralesupelec_logo_Changed.jpeg)
 
 
 
