@@ -37,7 +37,7 @@ pip install Pillow matplotlib tqdm
 To run the script, use the command line. The script takes the following arguments:
 
 ```
-python script_name.py <input_image_path> <output_image_path> [--factor=<lightening_factor>]
+python main.py <input_image_path> <output_image_path> [--factor=<lightening_factor>]
 ```
 
 - `<input_image_path>`: Path to the input image file.
