@@ -2,6 +2,14 @@
 
 This Python script allows users to modify specific colors in an image based on a provided hex color mapping. The script also includes functionality to lighten colors and visualize them in a plot.
 
+## Examples
+
+Before:
+![Before](Centralesupelec_logo.jpeg)
+
+After (factor = 0.6):
+![After](Centralesupelec_logo_Changed.jpeg)
+
 ## Features
 
 - Convert RGB colors to hex format and vice versa.
@@ -80,15 +88,4 @@ Changes specific colors in an image based on a provided hex color map.
 
 - Ensure that the input image is in a supported format (e.g., PNG, JPEG).
 - The script uses a progress bar to indicate processing progress when modifying the image.
-
-## Examples
-
-Before:
-![Before](Centralesupelec_logo.jpeg)
-
-After (factor = 0.6):
-![After](Centralesupelec_logo_Changed.jpeg)
-
-
-
 
