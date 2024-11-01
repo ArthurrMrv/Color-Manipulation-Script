@@ -80,3 +80,15 @@ Changes specific colors in an image based on a provided hex color map.
 
 - Ensure that the input image is in a supported format (e.g., PNG, JPEG).
 - The script uses a progress bar to indicate processing progress when modifying the image.
+
+## Examples
+
+Before:
+![Before](Centralesupelec logo.jpeg)
+
+After (factor = 0.6):
+![After](Centralesupelec logo Changed.jpeg)
+
+
+
+
