@@ -2,7 +2,7 @@
 
 This Python script allows users to modify specific colors in an image based on a provided hex color mapping. The script also includes functionality to lighten colors and visualize them in a plot.
 
-## Examples
+## Example
 
 Before:
 ![Before](Centralesupelec_logo.jpeg)
